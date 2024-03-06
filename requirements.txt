@@ -7,3 +7,4 @@ pandas
 pyspark
 streamlit
 streamlit_authenticator
+schedule
