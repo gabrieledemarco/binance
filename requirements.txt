@@ -8,3 +8,4 @@ pyspark
 streamlit
 streamlit_authenticator
 schedule
+sqlalchemy
