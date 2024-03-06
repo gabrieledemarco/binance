@@ -1,0 +1,9 @@
+tqdm
+numpy
+coinmarketcap
+psycopg2-binary
+python-binance
+pandas
+pyspark
+streamlit
+streamlit_authenticator
